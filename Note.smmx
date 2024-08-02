@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+<simplemind-mindmaps generator="SimpleMindWin32" gen-version="1.15.0" doc-version="3">
+<mindmap>
+<meta>
+<guid guid="D4F85D71886A4259A53411499E265171"/>
+<title text="Social media"/>
+<style key="system.bright-palette"/>
+<auto-numbering style="disabled"/>
+<scrollstate zoom="130" x="473" y="647"/>
+<selection guid="dBmkhM8CWUOpvOxNQb_o1A" type="node" id="1"/>
+<main-centraltheme id="0"/>
+</meta>
+<topics>
+<topic id="0" parent="-1" guid="RFd385GVk0e9GrZnTRM6AA" x="800.00" y="800.00" layout="strict-horizontal" palette="1" colorinfo="1" text="Social media"/>
+<topic id="1" parent="0" guid="dBmkhM8CWUOpvOxNQb_o1A" x="1048.94" y="800.00" palette="2" colorinfo="2" text="rfc: tạo nhanh cấu trúc file js"/>
+</topics>
+<relations/>
+</mindmap>
+</simplemind-mindmaps>
